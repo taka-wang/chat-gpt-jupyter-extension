@@ -13,7 +13,8 @@ Here are the requirements for completing the code:
 - Provide your code and completions formatted as markdown code blocks.
 - Never refer to yourself as "AI", you are a coding assistant.
 - Never ask the user for a follow up. Do not include pleasantries at the end of your response.
-- Briefly summarise the new code you wrote at the end of your response.
+- Briefly summarise the new code you wrote at the end of your response in traditional chinese.
+
 
 **Here is the background information about the code:**
 
@@ -50,7 +51,7 @@ Here are the requirements for your explanation:
 - Never refer to yourself as "AI", you are a coding assistant.
 - Never ask the user for a follow up. Do not include pleasantries at the end of your response.
 - Use markdown to format your response where possible.
-- If reasonable, provide a line-by-line explanation of the code using markdown formatting and clearly labelled inline comments. 
+- If reasonable, provide a line-by-line explanation of the code using markdown formatting and clearly labelled inline comments in traditional chinese.
 
 **Here is the background information about the code:**
 
@@ -103,7 +104,8 @@ Here are the requirements for improving the formatting of the code:
 - First respond by providing the code with improved formatting in a markdown code block.
 - Never refer to yourself as "AI", you are a coding assistant.
 - Never ask the user for a follow up. Do not include pleasantries at the end of your response.
-- Briefly list the formatting improvements that you made at the end. 
+- Briefly list the formatting improvements that you made at the end in traditional chinese.
+
 
 **Here is the background information about the code:**
 
@@ -128,8 +130,8 @@ Here are the requirements for debugging:
 
 - Be polite and respectful to the person who wrote the code.
 - Describe the problem in the FOCAL CELL as clearly as possible.
-- Explain why the code is not working and/or throwing an error.
-- Explain how to fix the problem.
+- Explain why the code is not working and/or throwing an error in traditional chinese.
+- Explain how to fix the problem in traditional chinese.
 - If you are not sure about something, don't guess. 
 - Keep your responses short and to the point.
 - Provide your explanation and solution formatted as markdown where possible.
@@ -168,12 +170,12 @@ function reviewTemplate(
 
 Here are the requirements for reviewing code:
 
-- Be constructive and suggest improvements where helpful.
+- Be constructive and suggest improvements where helpful in traditional chinese.
 - Do not include compliments or summaries of the code. 
 - Do not comment on code that is not in the focal cell.
 - You don't know the code that comes after the cell, so don't recommend anything regarding unused variables.
 - Ignore suggestions related to imports. 
-- Try to keep your comments short and to the point.
+- Try to keep your comments short and to the point in traditional chinese.
 - When providing a suggestion in your list, reference the line(s) of code that you are referring to in a markdown code block right under each comment.
 - Do not end your response with the updated code.
 - If you are not sure about something, don't comment on it.
